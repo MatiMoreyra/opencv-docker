@@ -2,7 +2,7 @@
 [![Docker Hub Automated Build](https://img.shields.io/docker/cloud/automated/matimoreyra/opencv)](https://hub.docker.com/r/matimoreyra/opencv)
 [![Docker Hub Build](https://img.shields.io/docker/cloud/build/matimoreyra/opencv)](https://hub.docker.com/r/matimoreyra/opencv)
 
-Docker image for OpenCV development with C++.
+Docker image for OpenCV development with C++ and Python.
 
 ## Deployments
 
